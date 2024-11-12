@@ -1,0 +1,10 @@
+<connection_string>  "postgres://thomasbabcock:@localhost:5432/gator_aggregator"
+
+When running goose migrations you must be in the directory where the migration files exist.
+
+
+RSS Feeds to get started:
+
+TechCrunch: https://techcrunch.com/feed/
+Hacker News: https://news.ycombinator.com/rss
+Boot.dev Blog: https://blog.boot.dev/index.xml
